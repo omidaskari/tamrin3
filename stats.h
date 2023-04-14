@@ -14,7 +14,7 @@
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
+ * @omidaskarihaddad <omid askari haddad>
  * @date <Add date >
  *
  */
@@ -22,7 +22,7 @@
 #define __STATS_H__
 
 /* Add Your Declarations and Function Comments here */ 
-
+#define SIZE (40)
 /**
  * @brief <Add Brief Description of Function Here>
  *
